@@ -20,9 +20,6 @@ To run this project, you need to have Java installed on your system. Follow thes
 
 **Clone the repository:**
 
-git clone https://github.com/your-username/animated-text-display.git
-cd animated-text-display
-
 **Compile the Java file:**
 
 javac animator.java
