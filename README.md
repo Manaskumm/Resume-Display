@@ -20,13 +20,16 @@ To run this project, you need to have Java installed on your system. Follow thes
 
 **Clone the repository:**
 
+*git clone https://github.com/your-username/animated-text-display.git*
+*cd animated-text-display*
+
 **Compile the Java file:**
 
-javac animator.java
+*javac animator.java*
 
 **Run the application:**
 
-java animator
+*java animator*
 
 #Technologies Used
 Java: The primary programming language used for the application.
